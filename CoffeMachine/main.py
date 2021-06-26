@@ -20,17 +20,16 @@ def check_transaction(name_drink):
     # TODO: 4.Check transaction successful?
     if total_clash > cal_price:
         total_money(cal_price)
-        make_coffee(name_drink)
         change = total_clash - cal_price
         print(f"Here is ${change:0.2f} dollars in change.")
-        print(f"Here is your{name_drink} ☕.Enjoy!")
+        make_coffee(name_drink)
+
     elif total_clash < cal_price:
         print("Sorry that's not enough money. Money refunded.")
         machine()
     else:
         total_money(cal_price)
         make_coffee(name_drink)
-        print(f"Here is your {name_drink} ☕.Enjoy!")
 
 
 def check_stock(name_drink):
@@ -54,17 +53,27 @@ def make_coffee(name_drink):
     # TODO: 5.Make Coffee.
     for item in MENU[name_drink]['ingredients']:
         resources[item] -= MENU[name_drink]['ingredients'][item]
+    print(f"Here is your {name_drink} ☕.Enjoy!")
 
 
 def machine():
-    while not out_of_stock and not turn_on_machine:
+    is_on = True
+    while is_on:
         # TODO: 1.Prompt user by asking "What would you like?".
         customer_pick = input("What would you link? (espresso / latte / cappuccino) : ").lower()
         if customer_pick == "report":
-            print(f"{[*resources][0]} : {resources['water']} ml.")
-            print(f"{[*resources][1]} : {resources['milk']} ml.")
-            print(f"{[*resources][2]} : {resources['coffee']} g.")
+            print(f"Water: {resources['water']} ml.")
+            print(f"Milk: {resources['milk']} ml.")
+            print(f"Coffee: {resources['coffee']} g.")
             print(f"Money: ${now_money}")
+
+            # hard skill
+            # print(f"{[*resources][0]} : {resources['water']} ml.")
+            # print(f"{[*resources][1]} : {resources['milk']} ml.")
+            # print(f"{[*resources][2]} : {resources['coffee']} g.")
+            # print(f"Money: ${now_money}")
+        elif customer_pick == "off":
+            is_on = False
         elif customer_pick not in MENU:
             print("You wrong type,please type again")
             machine()
@@ -72,13 +81,11 @@ def machine():
             check_stock(customer_pick)
 
 
-turn_on_machine = False
-out_of_stock = False
 now_money = 0
-
 resources = {
     "water": 300,
     "milk": 200,
     "coffee": 100,
 }
+
 machine()
