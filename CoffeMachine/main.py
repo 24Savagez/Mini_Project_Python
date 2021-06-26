@@ -1,7 +1,7 @@
 from menu import MENU
 
 
-def total_money(check_bill):
+def cash(check_bill):
     global now_money
     now_money += check_bill
 
@@ -14,21 +14,21 @@ def check_transaction(name_drink):
     for name in coin:
         each_coin.append(int(input(f"how many {name} : ")) * coin[name])
 
-    total_clash = sum(each_coin)
-    cal_price = MENU[name_drink]['cost']
+    receive = sum(each_coin)
+    payment = MENU[name_drink]['cost']
 
     # TODO: 4.Check transaction successful?
-    if total_clash > cal_price:
-        total_money(cal_price)
-        change = total_clash - cal_price
+    if receive > payment:
+        cash(payment)
+        change = receive - payment
         print(f"Here is ${change:0.2f} dollars in change.")
         make_coffee(name_drink)
 
-    elif total_clash < cal_price:
+    elif receive < payment:
         print("Sorry that's not enough money. Money refunded.")
         machine()
     else:
-        total_money(cal_price)
+        cash(payment)
         make_coffee(name_drink)
 
 
