@@ -3,9 +3,21 @@ from turtle import Screen
 import turtle as t
 import random
 
+
+def random_color():
+    r = random.randint(0, 255)
+    g = random.randint(0, 255)
+    b = random.randint(0, 255)
+    return r, g, b
+
+
 tim = t.Turtle()
-colors = ["deep sky blue", "pale green", "firebrick", "medium violet red",
-          "orchid", "gold", "rosy brown", "pale violet red"]
+t.colormode(255)
+tim.width(1)
+tim.speed("fastest")
+
+colors = ["CornflowerBlue", "DarkOrchid", "IndianRed", "DeepSkyBlue", "LightSeaGreen", "wheat", "SlateGray", "SeaGreen"]
+direction = [0, 90, 180, 270]
 
 
 # tim.shape("arrow")
@@ -50,7 +62,19 @@ colors = ["deep sky blue", "pale green", "firebrick", "medium violet red",
 #     draw_shape(shape_side_n)
 
 # Challenge 4 - draw a random walk
+# for _ in range(2000):
+#     tim.pencolor(random_color())
+#     tim.setheading(random.choice(direction))
+#     tim.forward(20)
+
+# Challenge 5 - draw a spirograph
+def draw_spirograph(radium, size_of_gap):
+    for _ in range(360 // size_of_gap):
+        tim.pencolor(random_color())
+        tim.circle(radium)
+        tim.setheading(tim.heading() + size_of_gap)
 
 
+draw_spirograph(120, 5)
 screen = Screen()
 screen.exitonclick()
