@@ -20,15 +20,19 @@ while game_is_on:
     time.sleep(score.move_speed)
     screen.update()
     car.create_car()
-    car.move()
+    car.move_car()
 
-    if player.ycor() == player.finish:
+    # Detect successful crossing
+    if player.is_at_finish_line():
+        player.go_to_start()
         score.increase_score()
-        player.new_game()
+        car.level_up()
 
-    for cars in car.segment:
-        if player.distance(cars) < 20:
+    # Detect collision with car
+    for cars in car.all_cars:
+        if cars.distance(player) < 20:
             game_is_on = False
             score.game_over()
+
 
 screen.exitonclick()
