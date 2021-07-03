@@ -22,7 +22,7 @@ while game_is_on:
     car.create_car()
     car.move()
 
-    if player.ycor() == 280:
+    if player.ycor() == player.finish:
         score.increase_score()
         player.new_game()
 
