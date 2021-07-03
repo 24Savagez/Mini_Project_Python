@@ -17,7 +17,7 @@ screen.onkey(player.move, "w")
 
 game_is_on = True
 while game_is_on:
-    time.sleep(score.move_speed)
+    time.sleep(0.1)
     screen.update()
     car.create_car()
     car.move_car()
@@ -33,6 +33,5 @@ while game_is_on:
         if cars.distance(player) < 20:
             game_is_on = False
             score.game_over()
-
 
 screen.exitonclick()
