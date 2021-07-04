@@ -2,7 +2,7 @@
 with open(
         r"\Users\chuta\Documents\GitHub\mini_project_python\Mail Merge Project Start\Input\Letters\starting_letter.txt") as file:
     letter = file.read()
-    print(letter)
+    # print(letter)
 
 # for each name in invited_names.txt
 all_name = []
@@ -16,7 +16,7 @@ with open(
 # Save the letters in the folder "ReadyToSend".
 for name in all_name:
     with open(
-            f"/Users/chuta/Documents/GitHub/mini_project_python/Mail Merge Project Start/Output/ReadyToSend/{name}.txt",
+            f"/Users/chuta/Documents/GitHub/mini_project_python/Mail Merge Project Start/Output/ReadyToSend/letter_for_{name}.txt",
             mode="w") as file:
         finish_letter = letter.replace("[name]", f"{name}")
         file.write(f"{finish_letter}")
