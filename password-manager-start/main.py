@@ -54,7 +54,6 @@ def save():
             pass_entry.delete(0, END)
             web_entry.focus()
 
-
 # ---------------------------- UI SETUP ------------------------------- #
 
 # set window
