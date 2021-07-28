@@ -52,13 +52,16 @@ best_model.fit(X, y)
 
 # generate test predictions
 prediction_euusd = best_model.predict(X_test)
+print(f"{prediction_euusd[0]:.5f}")
+print(f"{prediction_euusd[1]:.5f}")
+print(f"{prediction_euusd[2]:.5f}")
 
 # check result
-close_test = pd.read_csv("check_daily_EUR_USD.csv")
-close_price = close_test["close"].values.tolist()
-
-for x in range(0, len(close_price)):
-    print(f"{close_price[x]} - {prediction_euusd[x]:.5f} = {float(close_price[x]) - float(prediction_euusd[x]):.5f}")
+# close_test = pd.read_csv("check_daily_EUR_USD.csv")
+# close_price = close_test["close"].values.tolist()
+#
+# for x in range(0, len(close_price)):
+#     print(f"{close_price[x]} - {prediction_euusd[x]:.5f} = {float(close_price[x]) - float(prediction_euusd[x]):.5f}")
 
 # print(f"{prediction_euusd}")
 # save predicitons
