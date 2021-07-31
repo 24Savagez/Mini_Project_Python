@@ -2,52 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d16ea31-19b1-4b07-8097-975c6165c921" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day-27-playground/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-27-playground/.idea/day-27-playground.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-27-playground/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-27-playground/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-27-playground/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-27-playground/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../quiz-game-start/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../quiz-game-start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../quiz-game-start/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../quiz-game-start/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../quiz-game-start/.idea/quiz-game-start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../quiz-game-start/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../turtle-race-start/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../turtle-race-start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../turtle-race-start/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../turtle-race-start/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../turtle-race-start/.idea/turtle-race-start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../turtle-race-start/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Completed/.idea/Mail Merge Project Completed.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mail Merge Project Completed/.idea/Mail Merge Project Completed.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Completed/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mail Merge Project Completed/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/.idea/Mail Merge Project Start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mail Merge Project Start/.idea/Mail Merge Project Start.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Mail Merge Project Start/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mail Merge Project Start/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Birthday Wisher (Day 32) start/.idea/Birthday Wisher (Day 32) start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Birthday Wisher (Day 32) start/.idea/Birthday Wisher (Day 32) start.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Birthday Wisher (Day 32) start/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Birthday Wisher (Day 32) start/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CoffeMachine/.idea/CoffeMachine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../CoffeMachine/.idea/CoffeMachine.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CoffeMachine/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CoffeMachine/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mile2KmConverter/.idea/Mile2KmConverter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mile2KmConverter/.idea/Mile2KmConverter.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Mile2KmConverter/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Mile2KmConverter/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-26-1-exercise/.idea/day-26-1-exercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-26-1-exercise/.idea/day-26-1-exercise.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-26-1-exercise/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-26-1-exercise/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-26-3-exercise/.idea/day-26-3-exercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-26-3-exercise/.idea/day-26-3-exercise.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-26-3-exercise/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-26-3-exercise/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-26-4-exercise/.idea/day-26-4-exercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-26-4-exercise/.idea/day-26-4-exercise.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-26-4-exercise/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-26-4-exercise/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-27-start/.idea/day-27-start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-27-start/.idea/day-27-start.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-27-start/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-27-start/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hist-painting/.idea/hist-painting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../hist-painting/.idea/hist-painting.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hist-painting/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hist-painting/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oop-coffee-machine-start/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-coffee-machine-start/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../oop-coffee-machine-start/.idea/oop-coffee-machine-start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../oop-coffee-machine-start/.idea/oop-coffee-machine-start.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pomodoro-start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pomodoro-start/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pong-game/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pong-game/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pong-game/.idea/pong-game.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../pong-game/.idea/pong-game.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rain_alert/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../rain_alert/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../snake_game/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../snake_game/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../snake_game/.idea/snake_game.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../snake_game/.idea/snake_game.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../turtle-crossing/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../turtle-crossing/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../turtle-crossing/.idea/turtle-crossing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../turtle-crossing/.idea/turtle-crossing.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../us-states-game-start/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../us-states-game-start/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../us-states-game-start/.idea/us-states-game-start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../us-states-game-start/.idea/us-states-game-start.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Password+Manager+(End+of+Day+29)/.idea/Password+Manager+(End+of+Day+29).iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Password+Manager+(End+of+Day+29)/.idea/Password+Manager+(End+of+Day+29).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Password+Manager+(End+of+Day+29)/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Password+Manager+(End+of+Day+29)/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../birthday-wisher-normal-start/.idea/birthday-wisher-normal-start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../birthday-wisher-normal-start/.idea/birthday-wisher-normal-start.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../birthday-wisher-normal-start/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../birthday-wisher-normal-start/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-16-start/.idea/day-16-start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-16-start/.idea/day-16-start.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-16-start/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-16-start/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-17-start/.idea/day-17-start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-17-start/.idea/day-17-start.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-17-start/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-17-start/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-18-start/.idea/day-18-start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-18-start/.idea/day-18-start.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-18-start/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-18-start/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-19-start/.idea/day-19-start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-19-start/.idea/day-19-start.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-19-start/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-19-start/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-24-start/.idea/day-24-start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-24-start/.idea/day-24-start.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-24-start/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-24-start/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-card-project-start/.idea/flash-card-project-start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../flash-card-project-start/.idea/flash-card-project-start.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-card-project-start/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../flash-card-project-start/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flash-card-project-start/data/words_to_learn.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../flash-card-project-start/data/words_to_learn.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +46,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day-24-start" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day-26-1-exercise" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
