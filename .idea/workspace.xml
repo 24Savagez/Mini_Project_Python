@@ -5,23 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70d8eecd-8b26-498d-b472-144ead0331ae" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/mini_project_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mini_project_python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Birthday Wisher (Day 32) start/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Birthday Wisher (Day 32) start/.idea/Birthday Wisher (Day 32) start.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Birthday Wisher (Day 32) start/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Birthday Wisher (Day 32) start/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Birthday Wisher (Day 32) start/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Birthday Wisher (Day 32) start/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Birthday Wisher (Day 32) start/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Birthday Wisher (Day 32) start/quotes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SCRIPT AUTOKEY DOTA2/AutoHotkey_1.1.30.01_setup.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SCRIPT AUTOKEY DOTA2/Script AUTOKEY EarthShaker.ahk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SCRIPT AUTOKEY DOTA2/Script AUTOKEY PUDGE.ahk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SCRIPT AUTOKEY DOTA2/Script AUTOKEY Void Spirit.ahk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SCRIPT AUTOKEY DOTA2/[eng]READ ME HOW TO USE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SCRIPT AUTOKEY DOTA2/[indo]BACA CARA MAKAINYA.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/birthday-wisher-normal-start/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/birthday-wisher-normal-start/.idea/birthday-wisher-normal-start.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/birthday-wisher-normal-start/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/birthday-wisher-normal-start/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/birthday-wisher-normal-start/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/birthday-wisher-normal-start/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/birthday-wisher-normal-start/birthdays.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/birthday-wisher-normal-start/letter_templates/letter_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/birthday-wisher-normal-start/letter_templates/letter_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/birthday-wisher-normal-start/letter_templates/letter_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/birthday-wisher-normal-start/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +49,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/birthday-wisher-normal-start/main.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.main (3)">
+  <component name="RunManager" selected="Python.main (4)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mini_project_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,6 +113,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mini_project_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Birthday_Wisther_End" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Birthday_Wisther_End/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mini_project_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,6 +157,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (4)" />
         <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main" />
