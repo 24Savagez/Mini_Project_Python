@@ -5,24 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70d8eecd-8b26-498d-b472-144ead0331ae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/issoverhead-start/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/issoverhead-start/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/issoverhead-start/.idea/issoverhead-start.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/issoverhead-start/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/issoverhead-start/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/issoverhead-start/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/issoverhead-start/config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/issoverhead-start/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanye-quotes-start/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanye-quotes-start/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanye-quotes-start/.idea/kanye-quotes-start.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanye-quotes-start/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanye-quotes-start/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanye-quotes-start/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanye-quotes-start/background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanye-quotes-start/kanye.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanye-quotes-start/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Workout_tracking_using_google_sheets/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Workout_tracking_using_google_sheets/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/ISS_overhead" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.main">
     <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">

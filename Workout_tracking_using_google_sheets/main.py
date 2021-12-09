@@ -1,13 +1,14 @@
 import requests
 from datetime import datetime
+import os
 
 GENDER = 'male'
 WEIGHT_KG = 65
 HEIGHT_CM = 166
 AGE = 32
 
-APP_ID = "9ed36947"
-API_KEY = "895390fcec11fbb616b05a22e93fb3b6"
+APP_ID = os.environ['ID_NUTRITIONIX']
+API_KEY = os.environ['API_NUTRITIONIX']
 
 exercise_endpoint = "https://trackapi.nutritionix.com/v2/natural/exercise"
 sheet_endpoint = "https://api.sheety.co/540bbaacd729d8738567c7fc69c08bea/myWorkouts/workouts"
@@ -68,13 +69,14 @@ for exercise in result['exercises']:
 
     # 3.Bearer Token Authentication
     bearer_headers = {
-        "Authorization": "Bearer @Kiss7468"
+        "Authorization": f"Bearer {os.environ.get('TOKEN_SHEETY')}"
     }
     sheet_response = requests.post(
         sheet_endpoint,
         json=sheet_input,
         headers=bearer_headers
     )
+    print()
     print(sheet_response.text)
 
 
