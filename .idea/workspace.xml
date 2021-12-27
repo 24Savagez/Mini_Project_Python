@@ -5,12 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70d8eecd-8b26-498d-b472-144ead0331ae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/mini_project_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mini_project_python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flight-deals/flight_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/flight-deals/flight_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flight-deals/flight_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/flight-deals/flight_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flight-deals/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/flight-deals/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flight-deals/notification_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/flight-deals/notification_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mile2KmConverter/.idea/Mile2KmConverter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Mile2KmConverter/.idea/Mile2KmConverter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mile2KmConverter/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mile2KmConverter/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NATO-alphabet-start/.idea/NATO-alphabet-start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/NATO-alphabet-start/.idea/NATO-alphabet-start.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NATO-alphabet-start/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NATO-alphabet-start/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Password+Manager+(End+of+Day+29)/.idea/Password+Manager+(End+of+Day+29).iml" beforeDir="false" afterPath="$PROJECT_DIR$/Password+Manager+(End+of+Day+29)/.idea/Password+Manager+(End+of+Day+29).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Password+Manager+(End+of+Day+29)/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Password+Manager+(End+of+Day+29)/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution+-+rain-alert-end/.idea/Solution+-+rain-alert-end.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Solution+-+rain-alert-end/.idea/Solution+-+rain-alert-end.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Solution+-+rain-alert-end/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Solution+-+rain-alert-end/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Workout_tracking_using_google_sheets/.idea/Workout_tracking_using_google_sheets.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Workout_tracking_using_google_sheets/.idea/Workout_tracking_using_google_sheets.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Workout_tracking_using_google_sheets/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Workout_tracking_using_google_sheets/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-coffee-machine-start/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oop-coffee-machine-start/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop-coffee-machine-start/.idea/oop-coffee-machine-start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/oop-coffee-machine-start/.idea/oop-coffee-machine-start.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/password-manager-start/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/password-manager-start/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/password-manager-start/.idea/password-manager-start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/password-manager-start/.idea/password-manager-start.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pomodoro-start/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pomodoro-start/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pomodoro-start/.idea/pomodoro-start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pomodoro-start/.idea/pomodoro-start.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pong-game/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pong-game/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pong-game/.idea/pong-game.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pong-game/.idea/pong-game.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizzler_with_api/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/quizzler_with_api/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizzler_with_api/.idea/quizzler-app-start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/quizzler_with_api/.idea/quizzler-app-start.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rain_alert/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rain_alert/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rain_alert/.idea/rain_alert.iml" beforeDir="false" afterPath="$PROJECT_DIR$/rain_alert/.idea/rain_alert.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake_game/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/snake_game/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/snake_game/.idea/snake_game.iml" beforeDir="false" afterPath="$PROJECT_DIR$/snake_game/.idea/snake_game.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stock-news-normal-start/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stock-news-normal-start/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stock-news-normal-start/.idea/stock-news-normal-start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/stock-news-normal-start/.idea/stock-news-normal-start.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtle-crossing/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/turtle-crossing/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtle-crossing/.idea/turtle-crossing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/turtle-crossing/.idea/turtle-crossing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtle-race-start/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/turtle-race-start/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtle-race-start/.idea/turtle-race-start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/turtle-race-start/.idea/turtle-race-start.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/us-states-game-start/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/us-states-game-start/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/us-states-game-start/.idea/us-states-game-start.iml" beforeDir="false" afterPath="$PROJECT_DIR$/us-states-game-start/.idea/us-states-game-start.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +56,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1uVI6bGZmnCaSXZGbuXK3vjU26O" />
   <component name="ProjectLevelVcsManager">
@@ -107,6 +139,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mini_project_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Birthday_Wisher_Start" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Birthday_Wisher_Start/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="mini_project_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,6 +205,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.data_manager" />
         <item itemvalue="Python.flight_search" />
         <item itemvalue="Python.main" />
@@ -179,7 +233,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
